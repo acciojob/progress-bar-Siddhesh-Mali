@@ -4,6 +4,13 @@
       const next = document.getElementById("next");
       const progress = document.getElementsByClassName("progress")[0];
       const circle = document.getElementsByClassName("circle");
+
+      const circle1 = document.getElementsByClassName("circle1");
+      const circle2 = document.getElementsByClassName("circle");
+      const circle3 = document.getElementsByClassName("circle");
+      const circle4 = document.getElementsByClassName("circle");
+      const circle5 = document.getElementsByClassName("circle");
+
       
       let count = 0;
 
@@ -43,3 +50,8 @@
       } 
 
     }
+ const circle1 = document.getElementsById("circle1");
+    const circle2 = document.getElementsById("circle2");
+    const circle3 = document.getElementsById("circle3");
+    const circle4 = document.getElementsById("circle4");
+    const circle5 = document.getElementsById("circle5");
