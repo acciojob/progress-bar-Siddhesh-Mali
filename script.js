@@ -50,8 +50,8 @@
       } 
 
     }
- const circle1 = document.getElementsById("circle1");
-    const circle2 = document.getElementsById("circle2");
-    const circle3 = document.getElementsById("circle3");
-    const circle4 = document.getElementsById("circle4");
-    const circle5 = document.getElementsById("circle5");
+   const circle1 = document.querySelector("#circle1");
+    const circle2 = document.querySelector("#circle2");
+    const circle3 = document.querySelector("#circle3");
+    const circle4 = document.querySelector("#circle4");
+    const circle5 = document.querySelector("#circle5");
